@@ -4,7 +4,7 @@
 
 - Clone the repository: `git clone https://github.com/JakubMarczynski/decision-tree-backend1.git`
 - Navigate: `cd decition-tree-backend1`
-- Install dependencies: `npm ci`
+- Install dependencies: `npm i`
 
 #### Step 2: ⚙️ Environment Configuration
 
